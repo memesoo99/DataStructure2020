@@ -20,7 +20,6 @@ int** counting_sort(int** inp, int t) { // t는 지금 몇차례째 counting sor
 		}
 	}
 
-
 	for (i = 0; i < RANGE; i++) {
 		c[i] = 0;
 	}
